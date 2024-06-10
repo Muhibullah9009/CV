@@ -1,0 +1,59 @@
+img{
+    height: 150px ;
+    weight: 250px ;
+    position: absolute;
+    left: 85%;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 2px solid white;
+   
+}
+body{
+      background-color: black;
+      color: white;
+      font-family:Arial, Helvetica, sans-serif;
+      
+   }
+   .main{
+    padding: 0px;
+   }
+.Address{
+    position: relative;   
+    left: 75%;  
+    color:brown;
+}
+.Ad{
+    text-align: right;
+}
+.quli{
+    position: absolute;
+    top: 38%;
+}
+.exp{
+    position: relative;
+    left: 60%;
+}
+.ii{
+    position: relative;   
+    left: 15%; 
+    color:brown;
+}
+.lang{
+    position: absolute;
+    top: 83%;
+}
+.skills{
+    position: absolute;
+    top: 115%;
+}
+footer{
+    position: relative;   
+    left: 60%; 
+    top: 150%;
+
+}
+h1::first-letter{
+                    font-size: 55px;
+                    color: brown;
+}
+
